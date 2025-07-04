@@ -2,4 +2,4 @@
 ### 2DActionPuzzleを作成中  
 
   ## 📷 スクリーンショット  
-  ![スクリーンショット](./images/screenshot.png)
+  ![スクリーンショット](https://www.youtube.com/watch?v=ovEwr_gfixg)
