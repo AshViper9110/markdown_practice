@@ -2,4 +2,4 @@
 ### 2DActionPuzzleを作成中  
 
   ## 📷 スクリーンショット  
-  
+  ![スクリーンショット](./images/screenshot.png)
